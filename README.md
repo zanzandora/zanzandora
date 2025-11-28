@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I just graduated and I'm diving into full-stack web development, building complex and interactive web applications.  <br>👯 I’m looking to collaborate on projects involving React, NextJS, Tailwind, Vite, Express, TypeScript.  <br>🤝 I’m looking for help with advanced state management, real-time features, and scalable architecture best practices.  <br>🌱 I’m currently learning WebSocket optimization, Docker deployment, Docker, NestJS and Postgresql.   <br>⚡ Fun fact: My nickname is The Lazy Boy, so i'm super lazy, but smart :).  <br>
+🔭 I just graduated and I'm diving into full-stack web development, building complex and interactive web applications.  <br>👯 I’m looking to collaborate on projects involving React, NextJS, Tailwind, Vite, Express, TypeScript.  <br>🤝 I’m looking for help with advanced state management, real-time features, and scalable architecture best practices.  <br>🌱 I’m currently learning WebSocket optimization, Docker deployment, Docker, NestJS and Postgresql.   <br>⚡ Fun fact: My nickname is The Lazy Boy, so i'm super lazy, lazy as smart.  <br>
 
 
 ## 🌐 Socials:
